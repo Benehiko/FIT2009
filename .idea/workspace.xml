@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49bd3274-33fe-4f2c-b6a5-dd76162ca7e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Arquillian_JUnit_Release.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/examples/Generics/GenericsExampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/examples/Generics/Functor/CompressedFunctor/FunctionBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/examples/Generics/Functor/CompressedFunctor/Identity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/examples/Generics/Functor/Functor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/examples/Generics/Functor/FunctorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/examples/Generics/Functor/FunctorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/examples/Generics/Functor/CompressedFunctor/IdentityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/examples/Generics/Functor/FunctorTestTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/examples/Generics/GenericsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/examples/Generics/GenericsExample.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -38,25 +41,25 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="6" />
+          <entry key="java" value="13" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="6" />
+          <entry key="JAVA" value="13" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4692" />
+          <entry key="java" value="5363" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4692" />
+          <entry key="JAVA" value="5363" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -65,58 +68,32 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/examples/inheritance/Animal.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/examples/Generics/Functor/CompressedFunctor/FunctionBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="75">
+              <caret line="5" column="70" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/examples/inheritance/Cat.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/examples/Generics/Functor/CompressedFunctor/Identity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            <state relative-caret-position="313">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
               <folding>
-                <element signature="e#81#82#0" expanded="true" />
-                <element signature="e#104#105#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/examples/inheritance/InheritanceDriver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/examples/Generics/GenericsExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="111" column="49" lean-forward="true" selection-start-line="111" selection-start-column="49" selection-end-line="111" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#560#561#0" expanded="true" />
-                <element signature="e#603#604#0" expanded="true" />
+                <element signature="e#355#356#0" expanded="true" />
+                <element signature="e#389#390#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/examples/Generics/GenericsExampleTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/examples/Generics/Functor/CompressedFunctor/IdentityTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="49" column="1" lean-forward="true" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="195">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -126,11 +103,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Arquillian JUnit Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
         <option value="JUnit5 Test Class" />
       </list>
     </option>
+    <option name="SCHEME" value="Project" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -143,6 +122,13 @@
         <option value="$PROJECT_DIR$/src/main/java/examples/inheritance/InheritanceDriver.java" />
         <option value="$PROJECT_DIR$/src/main/java/examples/Generics/GenericsExample.java" />
         <option value="$PROJECT_DIR$/src/test/java/examples/Generics/GenericsExampleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/examples/Generics/Functor/Functor.java" />
+        <option value="$PROJECT_DIR$/src/test/java/examples/Generics/Functor/FunctorTestTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/examples/Generics/Functor/FunctorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/examples/Generics/Functor/FunctorExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/examples/Generics/Functor/CompressedFunctor/IdentityTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/examples/Generics/Functor/CompressedFunctor/FunctionBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/examples/Generics/Functor/CompressedFunctor/Identity.java" />
       </list>
     </option>
   </component>
@@ -152,10 +138,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="67" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="488" />
     <option name="y" value="25" />
-    <option name="width" value="650" />
+    <option name="width" value="878" />
     <option name="height" value="743" />
   </component>
   <component name="ProjectView">
@@ -311,6 +297,21 @@
               <item name="fit2009" type="58d84e3e:PackageViewProjectNode" />
               <item name="FIT2009" type="616d4139:PackageViewModuleNode" />
               <item name="examples" type="1f31426a:PackageElementNode" />
+              <item name="Generics" type="1f31426a:PackageElementNode" />
+              <item name="Functor" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="fit2009" type="58d84e3e:PackageViewProjectNode" />
+              <item name="FIT2009" type="616d4139:PackageViewModuleNode" />
+              <item name="examples" type="1f31426a:PackageElementNode" />
+              <item name="Generics" type="1f31426a:PackageElementNode" />
+              <item name="Functor" type="1f31426a:PackageElementNode" />
+              <item name="CompressedFunctor" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="fit2009" type="58d84e3e:PackageViewProjectNode" />
+              <item name="FIT2009" type="616d4139:PackageViewModuleNode" />
+              <item name="examples" type="1f31426a:PackageElementNode" />
               <item name="inheritance" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
@@ -322,16 +323,18 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1532682782096" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1532685319047" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/examples/Generics" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/examples/Generics/Functor" />
     <property name="settings.editor.selected.configurable" value="preferences.arquillian" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="examples.Generics.Functor.CompressedFunctor" />
+      <recent name="examples.Generics.Functor" />
       <recent name="examples.Generics" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -350,7 +353,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GenericsExampleTest">
+  <component name="RunManager" selected="JUnit.FunctorTestTest">
+    <configuration name="FunctorTestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FIT2009" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="examples.Generics.Functor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="examples.Generics.Functor" />
+      <option name="MAIN_CLASS_NAME" value="examples.Generics.Functor.FunctorTestTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GenericsExampleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FIT2009" />
       <extension name="coverage">
@@ -376,22 +393,6 @@
       <option name="PACKAGE_NAME" value="examples.Generics" />
       <option name="MAIN_CLASS_NAME" value="examples.Generics.GenericsExampleTest" />
       <option name="METHOD_NAME" value="add" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GenericsExampleTest.contains" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="FIT2009" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="examples.Generics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="examples.Generics" />
-      <option name="MAIN_CLASS_NAME" value="examples.Generics.GenericsExampleTest" />
-      <option name="METHOD_NAME" value="contains" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -431,18 +432,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.GenericsExampleTest.improved_findMax" />
-      <item itemvalue="JUnit.GenericsExampleTest.contains" />
       <item itemvalue="JUnit.GenericsExampleTest.add" />
       <item itemvalue="JUnit.GenericsExampleTest" />
       <item itemvalue="JUnit.GenericsExampleTest.lower_addToList" />
+      <item itemvalue="JUnit.FunctorTestTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FunctorTestTest" />
         <item itemvalue="JUnit.GenericsExampleTest" />
         <item itemvalue="JUnit.GenericsExampleTest.lower_addToList" />
         <item itemvalue="JUnit.GenericsExampleTest.improved_findMax" />
         <item itemvalue="JUnit.GenericsExampleTest.add" />
-        <item itemvalue="JUnit.GenericsExampleTest.contains" />
       </list>
     </recent_temporary>
   </component>
@@ -458,14 +459,11 @@
       <updated>1532617236163</updated>
       <workItem from="1532617241357" duration="3136000" />
       <workItem from="1532673700456" duration="4810000" />
-      <workItem from="1532678866787" duration="3913000" />
+      <workItem from="1532678866787" duration="5736000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GenericsExampleTest_sumOfList - 2018.07.27 at 10h 33m 45s.xml">
-      <configuration name="GenericsExampleTest.sumOfList" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="GenericsExampleTest_contains - 2018.07.27 at 10h 34m 28s.xml">
       <configuration name="GenericsExampleTest.contains" configurationId="JUnit" />
     </history-entry>
@@ -493,15 +491,18 @@
     <history-entry file="GenericsExampleTest - 2018.07.27 at 11h 12m 56s.xml">
       <configuration name="GenericsExampleTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="FunctorTestTest - 2018.07.27 at 11h 41m 42s.xml">
+      <configuration name="FunctorTestTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11859000" />
+    <option name="totallyTimeSpent" value="13682000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <frame x="488" y="25" width="878" height="743" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17318435" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26081732" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -510,7 +511,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30668843" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30668843" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39967373" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -591,13 +592,78 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/examples/Generics/Functor/Functor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/examples/Generics/Functor/FunctorTestTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/examples/Generics/Functor/FunctorExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/examples/Generics/Functor/FunctorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#121#122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/examples/Generics/GenericsExampleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
+        <state relative-caret-position="314">
           <caret line="49" column="1" lean-forward="true" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/examples/Generics/Functor/CompressedFunctor/FunctionBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="70" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/examples/Generics/Functor/CompressedFunctor/Identity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/examples/Generics/Functor/CompressedFunctor/IdentityTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
