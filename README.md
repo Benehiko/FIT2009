@@ -2,8 +2,8 @@
 Monash FIT2009 Unit Code Examples Packaged by Topic.
 
 ## Rules
-If you want to contribute to this repository, please create a pull request with the updates you have made. A revision will be done of it to ensure it is correct.
-
+If you want to contribute to this repository, please fork this repository and create a pull request with the updates you have made. A revision will be done of it to ensure it is correct.
+* [How to contribute](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project)
 * Also note that I do not know all these concepts and I am also learning as I go along. If you find a mistake, open an issue with the "mistake" tag.
 
 ## Covered
