@@ -10,9 +10,10 @@ Contribution is much appreciated.
 I use IntelliJ as it provides support for Node.js and has a really nice interface. 
 .. and Free for students ;)
 
-[IntelliJ](https://www.jetbrains.com/idea/)
-[Student License](https://www.jetbrains.com/student/)
-[Github Student Pack](https://education.github.com/pack)
+- [IntelliJ](https://www.jetbrains.com/idea/)
+- [Student License](https://www.jetbrains.com/student/)
+- [Github Student Pack](https://education.github.com/pack)
+
 
 ## Rules
 If you want to contribute to this repository, please fork this repository and create a pull request with the updates you have made. A revision will be done of it to ensure it is correct.
