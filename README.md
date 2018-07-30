@@ -42,4 +42,6 @@ If you want to contribute to this repository, please fork this repository and cr
 - [ ] Revision
 
 ## Cheat Sheet
-<script src="https://gist.github.com/Benehiko/3221e8884957d6376481fdfaca3935d6.js"></script>
+[Cheat Sheet](https://gist.github.com/Benehiko/3221e8884957d6376481fdfaca3935d6)
+[Java Cheat Sheet](https://algs4.cs.princeton.edu/cheatsheet/)
+[Online Example](https://sinon.org/algorithms//#data-structures)
