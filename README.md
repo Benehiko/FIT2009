@@ -43,6 +43,8 @@ If you want to contribute to this repository, please fork this repository and cr
 
 ## Cheat Sheet
 
+- [Quick Learning](https://www.clear.rice.edu/comp160/data1.html)
+
 - [Cheat Sheet](https://gist.github.com/Benehiko/3221e8884957d6376481fdfaca3935d6)
 
 - [Java Cheat Sheet](https://algs4.cs.princeton.edu/cheatsheet/)
