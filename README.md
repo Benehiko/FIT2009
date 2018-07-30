@@ -40,3 +40,6 @@ If you want to contribute to this repository, please fork this repository and cr
 - [ ] Week 11
 - [ ] Week 12
 - [ ] Revision
+
+## Cheat Sheet
+<script src="https://gist.github.com/Benehiko/3221e8884957d6376481fdfaca3935d6.js"></script>
