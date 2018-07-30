@@ -50,3 +50,5 @@ If you want to contribute to this repository, please fork this repository and cr
 - [Java Cheat Sheet](https://algs4.cs.princeton.edu/cheatsheet/)
 
 - [Online Example](https://sinon.org/algorithms//#data-structures)
+
+- [Reddit](https://www.reddit.com/r/learnprogramming/comments/3gpvyx/algorithms_and_data_structures_cheat_sheets/)
