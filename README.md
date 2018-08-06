@@ -5,6 +5,8 @@ Monash FIT2009 Unit Code Examples Packaged by Topic.
 **Please note I am using MAVEN in all of my projects for ease of import**
 If you are clueless about maven, go look at the wiki. I have posted some stuff about it there.
 
+I am also using Java 8, openjdk. But you can use whichever suits your fancy, just not below 8. 
+
 Code examples and wiki information will be posted here
 
 Contribution is much appreciated.
