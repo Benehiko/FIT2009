@@ -1,3 +1,6 @@
 [submodule "Week1"]
 	path = Week1
 	url = https://github.com/Benehiko/FIT2009-Week1.git
+[submodule "Week2"]
+	path = Week2
+	url = https://github.com/Benehiko/FIT2009-Week2.git
