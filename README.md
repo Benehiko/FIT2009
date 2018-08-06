@@ -2,6 +2,9 @@
 Monash FIT2009 Unit Code Examples Packaged by Topic.
 
 ## Information
+**Please note I am using MAVEN in all of my projects for ease of import**
+If you are clueless about maven, go look at the wiki. I have posted some stuff about it there.
+
 Code examples and wiki information will be posted here
 
 Contribution is much appreciated.
